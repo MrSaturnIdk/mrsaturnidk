@@ -2,6 +2,6 @@
 - Worships capybara
 - CDT
 - Owns **17** plushies
-- Thinks `#F5BF60` is the best color
+- Favorite color is `#F5BF60`
 
 [my social links](https://mrsaturnidk.github.io/socials)
