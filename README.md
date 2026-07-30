@@ -1,5 +1,5 @@
 - Mascot from 1990s game called Earthbound
-- Worships capybara
+- Wants a **cat** as a pet
 - CDT
 - Owns **18** plushies
 - Favorite color is `#F5BF60`
